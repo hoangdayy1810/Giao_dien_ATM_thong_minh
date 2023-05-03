@@ -1,0 +1,1 @@
+jdbc:sqlserver://localhost:1433;databaseName=BankAccount;encrypt=false;user=sa;password=123456789
